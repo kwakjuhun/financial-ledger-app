@@ -1,0 +1,2 @@
+# financial-ledger-app
+flutter
